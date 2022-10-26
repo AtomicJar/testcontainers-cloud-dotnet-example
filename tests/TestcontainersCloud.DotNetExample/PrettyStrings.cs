@@ -1,4 +1,4 @@
-﻿namespace TestcontainersCloud.DotNetSample;
+﻿namespace TestcontainersCloud.DotNetExample;
 
 public static class PrettyStrings
 {

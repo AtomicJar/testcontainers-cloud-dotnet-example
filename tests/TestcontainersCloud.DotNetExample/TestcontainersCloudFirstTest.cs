@@ -4,7 +4,7 @@ using DotNet.Testcontainers.Configurations;
 using DotNet.Testcontainers.Containers;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace TestcontainersCloud.DotNetSample;
+namespace TestcontainersCloud.DotNetExample;
 
 [TestClass]
 public sealed class TestcontainersCloudFirstTest
