@@ -2,7 +2,7 @@
 
 public static class PrettyStrings
 {
-    public const string Logo = "✔                                                                                \n" +
+    public const string Logo = "                                                                                  \n" +
                                "                                         /                                        \n" +
                                "                                       /////////                                  \n" +
                                "                                    ///////////////                               \n" +
