@@ -5,15 +5,9 @@ For details on how to bootstrap Testcontainers in an actual project, please refe
 
 ## Clone the repository and run the first Testcontainers test suite
 
-```
+```shell
 git clone https://github.com/AtomicJar/testcontainers-cloud-dotnet-example
 cd testcontainers-cloud-dotnet-example
-dotnet test --logger:"console;verbosity=detailed"
-```
-
-## Run the test suite
-
-```shell
 make test
 ```
 
