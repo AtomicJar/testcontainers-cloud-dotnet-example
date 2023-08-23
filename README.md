@@ -13,7 +13,11 @@ dotnet test --logger:"console;verbosity=detailed"
 
 ## Run the test suite
 
-`dotnet test --logger:"console;verbosity=detailed"`
+```shell
+make test
+```
+
+The `Make` command will run the test suite using `dotnet test --logger:"console;verbosity=detailed"`
 
 ### Confirm your environment is configured correctly
 
