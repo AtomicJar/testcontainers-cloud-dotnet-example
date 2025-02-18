@@ -1,6 +1,7 @@
 using System;
 using System.Data.Common;
 using System.Text;
+using System.Linq;
 using System.Threading.Tasks;
 using DotNet.Testcontainers.Configurations;
 using DotNet.Testcontainers.Containers;
